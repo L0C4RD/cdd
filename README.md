@@ -33,4 +33,4 @@ Probably. If you want to use it somewhere else, it should be pretty easy to twea
 
 ### Thanks, this is kind of handy!
 
-Glad it helped you! Drop in and say hi - my Twitter handle is @L0C4RD. Be well!
+Glad it helped you! Drop in and say hi - my Twitter handle is [@L0C4RD](https://twitter.com/l0c4rd). Be well!
