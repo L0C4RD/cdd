@@ -23,9 +23,9 @@ cdd.sh 0.5 if=/my/input/file of=/my/output/file
 
 ### Why did you make this?
 
-One of the most common questions I get asked is "how long is that dd going to take?" I wrote this script so that I'd be able to answer that question. It's not going to change the world, but it's kind of helpful.
+One of the most common questions I get asked is "how long is that `dd` going to take?" I wrote this script so that I'd be able to answer that question. It's not going to change the world, but it's kind of helpful.
 
-Doing big convert-and-copy operations can take a long time. It can also be quite frustrating staring at an unchanging dd line in a terminal for hours on end, without any idea of its progress, so hopefully this will make someone's day a bit less rubbish.
+Doing big convert-and-copy operations can take a long time. It can also be quite frustrating staring at an unchanging `dd` line in a terminal for hours on end, without any idea of its progress, so hopefully this will make someone's day a bit less rubbish.
 
 ### Could you make this run on $OPERATING_SYSTEM ?
 
