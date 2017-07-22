@@ -21,7 +21,6 @@ elif [[ "$OSTYPE" == "darwin"* ]]; then		#Mac OS
 	WAKEY_WAKEY_SIG="SIGINFO"
 elif [[ "$OSTYPE" == "cygwin" ]]; then		#Cygwin - I haven't tested this, but it sure as fuck isn't SIGINFO.
 	WAKEY_WAKEY_SIG="SIGUSR1"
-elif [[ Y_WAKEY_SIG="SIGUSR1"
 elif [[ "$OSTYPE" == "freebsd"* ]]; then	#BSD
 	WAKEY_WAKEY_SIG="SIGINFO"
 else
