@@ -9,7 +9,7 @@ Tested on Linux, but should run fine on Mac OS, BSD, and Cygwin too.
  - It's very easy. Start by grabbing a copy of the repo:
 
 ```
-git clone xxx
+git@github.com:L0C4RD/cdd.git
 ```
 
  - Then navigate to the directory you've cloned the repo into.
